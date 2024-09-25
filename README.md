@@ -4,7 +4,7 @@
 
 This repository contains the Power BI dashboard for HDFC Bank, providing a detailed analysis of banking transactions, account balances, loan amounts, and customer credit scores. The dashboard is designed to offer insights into the bank's performance across different branches, transaction types, and customer demographics.
 
-![HDFC Bank Dashboard](HDFC Bank Dashboard.png) 
+![HDFC Bank Dashboard](./HDFC%20Bank%20Dashboard.png) 
 
 ## Key Features
 - **Transaction Count**: Displays the total number of transactions.
